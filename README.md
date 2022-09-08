@@ -1,6 +1,8 @@
 ### Hi there 👋
 Hi, I'm just ordinary person. Still learning how to code.
-- 🌱 I’m currently learning Python, javascript, and c++.
+- 🌱 I’m currently learning Python, Javascript, and C++.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jonathan-darius/)
+
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=jonathan-darius&show_icons=true&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
