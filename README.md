@@ -3,6 +3,7 @@ Hi, I'm just ordinary person. Still learning how to code.
 - 🌱 I’m currently learning Python, Javascript, and C++.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jonathan-darius/)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=jonathan-darius&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=jonathan-darius&show_icons=true&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
