@@ -9,6 +9,8 @@ Hi, I'm just ordinary person. Still learning how to code.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathan-darius&langs_count=8&layout=compact&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=jonathan-darius&theme=dracula&count_private=true)](https://git.io/streak-stats)
+
 <!--
 **jonathan-darius/jonathan-darius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
